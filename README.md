@@ -76,23 +76,39 @@ ADD THE screenshots here
 Please enter the clearance: 10
 
 Please enter the x-coordinate of start: 11
+
 Please enter the y-coordinate of start: 11
+
 Please enter the orientation of start: 0
+
 Please enter the x-coordinate of goal: 400
+
 Please enter the y-coordinate of goal: 25
+
 Please enter the orientation of goal: =30
+
 Please enter the left wheel rpm: 30
+
 Please enter the right wheel rpm: 40
 
 ### Test Case  for Part 2: 
+
 Please enter the clearance: 22
+
 Please enter the x-coordinate of start: 100
+
 Please enter the y-coordinate of start: 24
+
 Please enter the orientation of start: 0
+
 Please enter the x-coordinate of goal: 400
+
 Please enter the y-coordinate of goal: 24
+
 Please enter the orientation of goal: 0
+
 Please enter the left wheel rpm: 50
+
 Please enter the right wheel rpm: 50
 
 
