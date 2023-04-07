@@ -41,9 +41,7 @@ robot and Turtlebot3 with non-holonomic constraints in ROS, Gazebo.
 
 
 ### Steps to run the implementation
-```
-git clone:  
-```
+
 
 #### Part1:
 1. Run the python file
@@ -61,6 +59,12 @@ git clone:
 
 
  ```
+ git clone  https://github.com/Mothish97/A_star_differential_drive.git
+
+ catkin_make
+ 
+ source devel\setup.bash
+
  python3 sourceCode.py
  ```
 ## Results
