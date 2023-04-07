@@ -52,8 +52,9 @@ git clone:
 #### Part2:
 1. Clone the repository
 2. Install latest version of Python and the required libraries mentinoned above prior to running the code
-3. Add the ros package into the src folder of the catkin_ws and run the catkin_make command 
-4. roslaunch the launch file and run the python file 
+3. Add the ros package into the src folder of the catkin_ws and run the "catkin_make" command 
+4. run "source devel\setup.bash"
+5. Navigate to "Project 3 Phase2 part1\A_star_differential_drive\Part02\proj3_phase2_sample\src\src" and run the sourceCode.py
 5. The program prompts for user inputs and takes the user inputs from the console
 6. Exploration of nodes starts and the optimal path is displayed in 2D map and gazebo
 
