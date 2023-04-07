@@ -74,6 +74,7 @@ ADD THE screenshots here
 
 ### Test Case for Part 1: 
 Please enter the clearance: 10
+
 Please enter the x-coordinate of start: 11
 Please enter the y-coordinate of start: 11
 Please enter the orientation of start: 0
